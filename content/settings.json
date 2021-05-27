@@ -1,24 +1,24 @@
 {
-  "store_id": 1069,
-  "name": "indusvend",
   "domain": "indusvend.netlify.app",
-  "short_name": "indusvend",
-  "description": "indusvend",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#e60014",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/indusvend",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "indusvend",
+  "short_name": "indusvend",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/indusvend"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo.png",
+  "store_id": 1069,
+  "description": "e60014",
+  "large_icon": "/img/uploads/logo.png"
 }
