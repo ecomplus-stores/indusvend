@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.fa3d24f32d505d27e676bb8cf9b31774.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d7e7e8aeb4b3296450ba06c3d1c1668c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.25e69e48f5d2be2e3d145956988a7e00.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.7ccd5fb99ab03639eef3eafadbc5d165.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.70600bcbea8b364e790374dc1735aaa2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "indusvend",
+  "short_name": "indusvend",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "f5821f",
+  "background_color": "#ffffff",
+  "theme_color": "#f5821e"
+}
