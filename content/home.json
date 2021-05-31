@@ -16,6 +16,20 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 23,
+      "start": "2021-05-31T21:23:14.356Z",
+      "end": "2021-06-02T21:23:14.393Z",
+      "offers": [
+        "5e46dac362887026009fdb08"
+      ],
+      "notes": "rfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
